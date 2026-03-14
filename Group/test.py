@@ -1,0 +1,5 @@
+name = input("ป้อนชื่อของคุณ: ")
+student_id = input("ป้อนรหัสนักศึกษาของคุณ: ")
+major = input("ป้อนสาขาวิชาของคุณ: ")
+print("ผลลัพธ์การแนะนำตัว")
+print(f"Hello, my name is {name}, my student ID is {student_id}, and my major is {major}")
